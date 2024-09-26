@@ -35,7 +35,7 @@ This project demonstrates the use of a SCARA robot to draw complex shapes, such 
 - Use Inkscape's *path* tool to convert your traced shapes into coordinates.
 - Extract the coordinates from Inkscape and format them according to the `task.in` file structure (see example in `task.in`).
 
-![Inkscape Example of Psycho Jenny](Psycho_Jenny/psycho_jenny_mapping.png)
+![Inkscape Example of Psycho Jenny](Psycho_Jenny/psycho-jenny-mapping.png)
 
 ### 3. SCARA Robot Simulator:
 - Open `ScaraRobotSim.exe`.
