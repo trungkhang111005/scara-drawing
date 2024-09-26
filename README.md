@@ -14,7 +14,7 @@ This project demonstrates the use of a SCARA robot to draw complex shapes, such 
 - Visual Studio (or any C compiler)
 - Inkscape (for generating coordinates)
 - SCARA Robot Simulator (`ScaraRobotSim.exe`)
-
+- 
 ## Project Structure
 
 ### Core Files:
@@ -92,6 +92,10 @@ P(t) = (1 - t)^2 * P0 + 2(1 - t) * t * P1 + t^2 * P2
 Once executed, the SCARA robot will follow the commands from `task.in` and replicate the desired drawing in the simulator. Below is the drawing of *Psycho Jenny* made by the robot:
 
 ![Psycho Jenny Drawing](Psycho_Jenny/psycho_jenny_drawing.png)
+
+## Acknowledgements
+
+The SCARA robot simulation (`ScaraRobotSim.exe`) used in this project was provided by my C programming instructor, [Dave Stropky](https://www.linkedin.com/in/dave-stropky-7381a24a/), as part of the coursework. I did not create the simulation software but used it for learning purposes in conjunction with this project.
 
 ## License
 This project is licensed under the MIT License.
