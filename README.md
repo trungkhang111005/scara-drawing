@@ -1,6 +1,6 @@
 # SCARA Robot Drawing Application
 
-This project demonstrates the use of a SCARA robot to draw complex shapes, such as the *Psycho Jenny* figure, by implementing inverse kinematics and geometric path generation. The robot uses Bezier curves, arcs, and lines to create intricate patterns based on input files and coordinates generated in **Inkscape**. This repository contains the C source code to operate the SCARA robot in simulation, utilizing remote control functionality.
+This project demonstrates the use of a SCARA (Selective Compliance Assembly Robot Arm) simulation to draw complex shapes, such as the *Psycho Jenny* figure, by implementing inverse kinematics and geometric path generation. The robot uses Bezier curves, arcs, and lines to create intricate patterns based on input files and coordinates generated in **Inkscape**. This repository contains the C source code to operate the SCARA robot in simulation, utilizing remote control functionality.
 
 ![General Example of Robot Drawing](Psycho_Jenny/example_drawing.png)
 
